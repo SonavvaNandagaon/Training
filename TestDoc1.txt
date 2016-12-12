@@ -1,6 +1,0 @@
-Modified 2
-<<<<<<< HEAD
-asdadva
-=======
-Line added by NCT 12/12/2016
->>>>>>> d9bfc0e71cd71d971b3c580a72b478fdccc6a6c2
