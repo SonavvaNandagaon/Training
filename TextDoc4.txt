@@ -3,7 +3,6 @@
 <body>
 <title>
 Hello
-Hi
 </title>
 </head>
 </html>
