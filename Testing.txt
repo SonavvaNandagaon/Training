@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-Printf("Just testing/n");
+Printf("Just testing/n/t");
 }
