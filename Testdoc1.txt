@@ -1,6 +1,6 @@
 New file by Bindya
 
-<Head>
+<html>
 
 -----
 -----
@@ -14,7 +14,7 @@ Body
 -----
 -----
 
-<Tail>
+</html>
 
 This is a format.
 ...
