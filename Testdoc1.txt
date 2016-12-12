@@ -17,4 +17,4 @@ Body
 </html>
 
 This is a format.
-...
+...bin
